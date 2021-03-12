@@ -1,5 +1,6 @@
-# imperia
-Jogo de Aventura, desenvolvido durante a Game Jam da Minas 2019 
+# Impéria
+Jogo de Aventura, desenvolvido durante a Game Jam da Minas 2019.
+<p> Tema: Futuro </p>
 
 ### Equipe: 
 |Nome|Perfil|
